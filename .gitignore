@@ -4,3 +4,4 @@ logs/
 .env
 agent_practice.py
 Dockerfile_dummy
+DOCUMENT_SUMMARY.md
